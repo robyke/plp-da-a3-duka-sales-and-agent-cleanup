@@ -3,3 +3,4 @@ agents.csv
 agent_transactions.csv
 .ipynb_checkpoints/
 __pycache__/
+~$*.xlsx
